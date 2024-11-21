@@ -1,3 +1,3 @@
-# deepcode_ai_fix
+# DeepCode AI Fix
 
-Thank you for your patience, we are working on finalizing the repo of the paper. 
+⚠️  This repository was moved to Snyk's organization. Please go to https://github.com/snyk/deepcode_ai_fix ⚠️
